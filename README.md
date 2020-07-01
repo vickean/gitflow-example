@@ -2,6 +2,12 @@
 
 Example to learn gitflow.
 
+### Git Flow Init
+
+```
+git flow init
+```
+
 ### Creating Feature Branch
 
 ```
